@@ -1,0 +1,14 @@
+# Panel yüksekliği (16-1000 arası)
+TaskBarGraphHeight=40
+
+# Menü ikon boyutu (8-128 arası)
+MenuIconSize=32
+
+# Görev çubuğu ikon boyutu
+TaskBarIconSize=32
+
+# Panel genişliği (%)
+TaskBarWidthPercentage=100
+
+# Panel konumu (left, right, center)
+TaskBarJustify=left
