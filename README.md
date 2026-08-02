@@ -1,1 +1,1 @@
-# kde-dotfiles
+# my-dotfiles
