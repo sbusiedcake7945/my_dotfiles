@@ -1,6 +1,0 @@
-[Libinput][1267][12721][ELAN050A:01 04F3:31B1 Touchpad]
-Enabled=false
-
-[Mouse]
-X11LibInputXAccelProfileFlat=true
-cursorTheme=Breeze_Dark_Red
