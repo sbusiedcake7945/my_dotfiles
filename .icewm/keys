@@ -1,0 +1,4 @@
+key "Menu" alacritty
+key "Print" scrot /home/busiedcake7945/Pictures/%Y-%m-%d_%H-%M-%S.png
+key "Shift+Print" scrot -s /home/busiedcake7945/Pictures/%Y-%m-%d_%H-%M-%S.png
+key "Ctrl+Print" sh -c "maim -s | xclip -selection clipboard -t image/png"
