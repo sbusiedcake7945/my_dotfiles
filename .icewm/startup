@@ -2,10 +2,8 @@
 
 
 picom --backend xrender -b &
-nm-applet &
 volumeicon &
 pcmanfm --daemon-mode &
-flameshot &
 kdeconnectd &
 kdeconnect-indicator &
 lxqt-policykit-agent &
