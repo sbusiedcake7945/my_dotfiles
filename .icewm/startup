@@ -1,9 +1,6 @@
 #!/bin/sh
 
 
-pipewire &
-pipewire-pulse &
-wireplumber &
 picom --backend xrender -b &
 nm-applet &
 volumeicon &
