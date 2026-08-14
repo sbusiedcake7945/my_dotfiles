@@ -1,7 +1,9 @@
 #!/bin/sh
 
-
-picom --backend xrender -b &
+export LC_TIME=C; conky -c ~/.config/conky/conky.conf &
+amixer set Master 100% unmute &
+iwctl station wlan0 scan &
+picom --config ~/.config/picom/picom.conf -b &
 volumeicon &
 pcmanfm --daemon-mode &
 kdeconnectd &
